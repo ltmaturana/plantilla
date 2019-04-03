@@ -8,9 +8,9 @@ La plantilla se edita y se entrega en duplas. También se puede editar y entrega
 
 **Para la entrega, deben crear como dupla un único repositorio en GitHub, con sus apellidos. Por ejemplo**: 
 
-- si la dupla está integrada por Patricia de Los Ríos y Felipe Cortez, el repositorio debería llamarse **de_los_rios-cortez**
-
 - si la dupla está integrada por Daniel Martínez y Francisco Blümel, el repositorio debería llamarse **martinez-blumel**
+
+- si la dupla está integrada por Patricia de Los Ríos y Felipe Cortez, el repositorio debería llamarse **de_los_rios-cortez**
 
 **Noten que NO DEBEN ocupar espacios ni caracteres especiales en el nombre del repositorio**. Los caracteres especiales se omiten, y los espacios en un apellido compuesto se reemplazan por guión bajo. Los apellidos de quienes integran la dupla se separan con guión simple. Si prefieres trabajar individualmente, usa tus dos apellidos, materno y paterno, siguiendo las mismas indicaciones. 
 
