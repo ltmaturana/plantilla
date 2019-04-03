@@ -20,7 +20,7 @@ Los contenidos en tu repositorio deben estar todos en una rama (*branch*) de nom
 
 - Una dirección de su GitHub Page, que se se estructura así: https://usuario.github.io/repositorio
 
-**Esas son las direcciones que se envían al correo de profesor@faco.cl, con copia a los ayudantes (dimartinez@uc.cl, ffblumel@uc.cl). El asunto de este correo tiene que ser: Entrega Módulo Web | Procesos de Producción. Para el envío de este correo de entrega, considera que**: 
+**Esas son las direcciones que se envían al correo de profesor@faco.cl, con copia a los ayudantes (dimartinez@uc.cl, ffblumel@uc.cl). El asunto de este correo tiene que ser: "Entrega de Procesos de producción", a lo que deben agregar los apellidos de la dupla después de dos puntos. Para el envío de este correo de entrega, considera que**: 
 
 - Sumas 0,5 a tu nota si entregas hasta las 23.59 hrs. del domingo 14 de abril
 
