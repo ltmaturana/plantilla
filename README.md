@@ -2,7 +2,7 @@
 
 ### Entrega de Procesos de Producción | Módulo Web
 
-La entrega consiste en la edición de la plantilla contenida en este repositorio; cualquier otra no será considerada, porque la evaluación depende de una rúbrica que detalla las modificaciones que deben realizar en esta plantilla.
+La entrega consiste en la edición de la plantilla contenida en este repositorio; cualquier otra no será considerada, porque la evaluación depende de [una rúbrica que detalla las modificaciones que deben realizar en esta plantilla](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing).
 
 La plantilla se edita y se entrega en duplas. También se puede editar y entregar individualmente. 
 
@@ -30,4 +30,4 @@ Los contenidos en tu repositorio deben estar todos en una rama (*branch*) de nom
 
 Entregando después de las 00.00 hrs. del lunes 29 de abril obtienes nota mínima: 1.0
 
-**Los demás detalles de la entrega los puedes consultar en la rúbrica con la que se evaluará la modificación de esta plantilla**
+**Los demás detalles de la entrega los puedes consultar en [la rúbrica](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing) con la que se evaluará la modificación de esta plantilla**
