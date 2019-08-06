@@ -8,7 +8,7 @@ La entrega consiste en la edición de la plantilla contenida en este repositorio
 
 Este trabajo se desarrolla en tríos. No se aceptan entregas de solitarias/os, ni cuartetos. Sí podríamos hacer excepciones para trabajos de duplas.
 
-**Para la entrega, deben crear como trío (o dupla) un único repositorio en GitHub.** Para facilitarnos el registro de sus entregas, favos consideren que:
+**Para la entrega, deben crear como trío (o dupla) un único repositorio en GitHub.** Para facilitarnos el registro de sus entregas, favor consideren que:
 
 - si el trío estuviera integrado por Patricia de los Ríos Escobar, María Infante Izquierdo y Francisca López de Heredia Loyola, el repositorio debería llamarse **de_los_rios-infante-lopez_de_heredia**
 
