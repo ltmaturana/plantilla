@@ -4,7 +4,7 @@
 
 #### MÓDULO WEB
 
-La entrega consiste en la edición de la plantilla contenida en este repositorio; favor limítense a sacar el mejor provecho de esta plantilla. Consideren que la evaluación depende de [una rúbrica que detalla las modificaciones esperadas](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing). En caso que su entrega no se ajuste a la rúbrica, podrían obtener una calificación muy carcana a la mínima.
+La entrega consiste en la edición de la plantilla contenida en este repositorio; favor limítense a sacar el mejor provecho de esta plantilla. **Consideren que la evaluación depende de [una rúbrica que detalla las modificaciones esperadas](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing)**. En caso que su entrega no se ajuste a la rúbrica, podrían obtener una calificación muy carcana a la mínima.
 
 Este trabajo se desarrolla en tríos. No se aceptan entregas de solitarias/os, ni cuartetos. Sí podríamos hacer excepciones para trabajos de duplas.
 
