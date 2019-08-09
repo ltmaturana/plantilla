@@ -166,11 +166,12 @@ main{
 	font-size:.8rem;
 	latter-spacing:0.25rem;
 	padding-top:0.25rem;
-    color:rgba(255,255,255,.6);	
+        color:rgba(255,255,255,.6);	
 }
 
 .integrante blockquote cite:before {
 	content:"— ";
+	latter-spacing:0.25rem;
 }
 
 .integrante:nth-of-type(1){
