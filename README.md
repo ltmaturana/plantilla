@@ -4,6 +4,20 @@
 
 #### MÓDULO WEB
 
+Basta con un poco de memoria frente a las pantallas conectadas a Internet para reconocer la acelerada evolución de la web, la que implica una evolución, tanto o más radical, en sus procesos de producción. Esta radical evolución ha hecho que los *webmasters* estén casi extintos, y en lo que era su hábitat ahora encontremos: 
+
+- Community Managers; 
+
+- Diseñadores UI (Visual Designers, Motion Designers, Interaction Designers);
+
+- Diseñadores UX (UX Researchers, UX Writers);
+
+- Desarrolladores FrontEnd, BackEnd o Fullstack (UX Engineers).
+
+Esta diversidad de profesionales especializados, y el tiempo de un módulo, nos exige escoger solo una caja de herramientas, métodos, lenguajes y tecnologías para los procesos de producción web. La caja escogida es la que usan los desarrolladores FrontEnd.  
+
+Para poner a prueba el aprovechamiento del módulo, que es parte de un curso donde corresponde adquirir competencias para realizar proyectos con los medios disponibles en cada momento, tendrán que preparar, como equipo, una página portafolio de diseño usando los lenguajes del desarrollo FrontEnd.
+
 La entrega consiste en la edición de la plantilla contenida en este repositorio; favor limítense a sacar el mejor provecho de esta plantilla. **Consideren que la evaluación depende de [una rúbrica que detalla las modificaciones esperadas](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing)**. En caso que su entrega no se ajuste a la rúbrica, podrían obtener una calificación muy carcana a la mínima.
 
 Este trabajo se desarrolla en tríos. No se aceptan entregas de solitarias/os, ni cuartetos. Sí podríamos hacer excepciones para trabajos de duplas.
