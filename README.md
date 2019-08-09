@@ -20,7 +20,7 @@ Los contenidos en el repositorio deben estar [todos en una rama (*branch*) de no
 
 - una de GitHub Page, que se se estructura así: https://usuario.github.io/repositorio
 
-**Esas son las URLs que se envían a profesor@faco.cl, con copia a las ayudantes (fslopezdeheredia@uc.cl, meinfante@uc.cl). El asunto de este correo debe ser: "Procesos de Producción / Entrega Nº1". Para el envío de este correo, consideren que**: 
+**Envíen sus propias URLs a profesor@faco.cl, con copia a las ayudantes (fslopezdeheredia@uc.cl, meinfante@uc.cl). El asunto de este correo debe ser: "Procesos de Producción / Entrega Nº1". Para el envío de este correo, consideren que**: 
 
 - suman 0,5 a su nota si entregan hasta las 23:59 hrs. del domingo 25 de agosto;
 
@@ -30,13 +30,13 @@ Los contenidos en el repositorio deben estar [todos en una rama (*branch*) de no
 
 Entregando después de las 00:00 hrs. del lunes 9 de septiembre se obtiene nota mínima (1.0)
 
-Antes de hacer entrega de tu trabajo:
+Pero antes de hacer entrega de tu trabajo, favor:
 
-- valida tu HTML con https://validator.w3.org/ 
+- validen tu HTML con https://validator.w3.org/ 
 
-- valida tu CSS con https://jigsaw.w3.org/css-validator/validator.html.es
+- validen tu CSS con https://jigsaw.w3.org/css-validator/validator.html.es
 
-- revisa por última vez [la rúbrica de evaluación](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing)
+- revisen por última vez [la rúbrica de evaluación](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing)
 
 En caso detectemos algún problema en una entrega, les avisaremos y el trío (o dupla) podrá hacer la modificación correspondiente para luego enviar un segundo correo. Su nota dependerá de fecha y hora en que recibamos este segundo correo.
 
