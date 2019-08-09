@@ -30,6 +30,14 @@ Los contenidos en el repositorio deben estar todos en una rama (*branch*) de nom
 
 Entregando después de las 00:00 hrs. del lunes 9 de septiembre se obtiene nota mínima (1.0)
 
+Antes de hacer entrega de tu trabajo:
+
+- valida tu HTML con https://validator.w3.org/ 
+
+- valida tu CSS con https://jigsaw.w3.org/css-validator/validator.html.es
+
+- revisa por última vez [la rúbrica de evaluación](https://docs.google.com/spreadsheets/d/1M3ofrTqd8at256lX49kDg6wRTooTTiupnqlP3sFJyLc/edit?usp=sharing)
+
 En caso detectemos un problema en su la entrega, se les avisará y podrán hacer la modificación correspondiente para luego enviar un segundo correo. Su nota dependerá de fecha y hora de este segundo correo.
 
-Y las 2 semanas de plazo que tenemos para entregarles su evaluación cuentan desde el último trabajo entregado, o desde el 9 de septiembre si es que quedasen trabajos pendientes.
+Y las 2 semanas de plazo que tenemos para entregarles su evaluación cuentan desde el último trabajo entregado, o desde el 9 de septiembre si es que quedasen entregas pendientes.
