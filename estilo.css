@@ -164,14 +164,13 @@ main{
 	font-style: normal; 
 	font-weight: 700; 
 	font-size:.8rem;
-	latter-spacing:0.25rem;
+	letter-spacing : 0.25rem;
 	padding-top:0.25rem;
         color:rgba(255,255,255,.6);	
 }
 
 .integrante blockquote cite:before {
 	content:"— ";
-	latter-spacing:0.25rem;
 }
 
 .integrante:nth-of-type(1){
@@ -213,7 +212,6 @@ main{
 }
 
 @media screen and (max-width: 768px){
-
 	
 	.item{
 		width:48%;
